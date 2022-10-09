@@ -1,5 +1,7 @@
-CUSTOM LICENSE
--------------
-
-Nitro4Gen is a project by funneman tho i do NOT want you to modiftian it you can use it in private and no commerical use f you see anyone with a forked verison of this Nitro4Gen
-Please tell me thank you.
+echo "# BuxBack-Hack" >> README.md
+git init
+git add README.md
+git commit -m "first commit"https://github.com/FunneMan/Nitro4Gen/blob/main/LICENSE
+git branch -M main
+git remote add origin https://github.com/FunneMan/BuxBack-Hack.git
+git push -u origin main
