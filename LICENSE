@@ -1,7 +1,9 @@
-echo "# BuxBack-Hack" >> README.md
-git init
-git add README.md
-git commit -m "first commit"https://github.com/FunneMan/Nitro4Gen/blob/main/LICENSE
-git branch -M main
-git remote add origin https://github.com/FunneMan/BuxBack-Hack.git
-git push -u origin main
+{
+    "referral": 69420500,
+    "alert": "Enjoy Nigga",
+    "items": 50000,
+    "gamepasses": 50000,
+    "clothing": 0.0,
+    "limiteds": 0.0,
+    "cashbackEnabled": true
+}
